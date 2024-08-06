@@ -81,3 +81,27 @@
 - **النموذج:** وعليكم السلام ورحمة الله وبركاته
 
 فالمدخل "السلام عليكم" يساوي ٩ رموز والمخرج "وعليكم السلام ورحمة الله وبركاته" يساوي 23 رمز. المدخل كلف ٠.٠٠٠٠٤٥ دولار، والمخرج كلف ٠.٠٠٠٣٤٥ دولار، فالسعر النهائي لهذه المحادثة هو ٠.٠٠٠٣٩ دولار أو ٠.٠٠١٥ ريال.
+
+### سياسات الاستخدام لنماذج اللغوبة الكبيرة:
+واحدة من أهم الأمور التي يجب على مهندسي الذكاء الاصطناعي الانتباه لها هي سياسة الاستخدام للنماذج اللغوية الكبيرة. فالكثير من النماذج تصنف تحت (مفتوحة الأوزان) بمعنى انه بمقدورك كمهندس تحميل النموذج في جهازك الخاص واستخدامه. لكن غالب تلك النماذج المفتوحة لا تستطيع استخدامها بشكل تجاري قبل شراء ترخيص من الشركة.
+الجدول التالي يفصل سياسات الترخيص والاستضافة
+
+| Model             | Open Wight | Private Hosting | Cloud Hosting                                                                                                                   | License Type                                                                 |
+|-------------------|------------|-----------------|----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| claude-3.5-sonnet | ❌    | ❌      | • Google Cloud’s Vertex AI (Dammam, Saudi Arabia) <br> • Amazon Bedrock (Non-Saudi Hosting) <br> • Anthropic API (Non-Saudi Hosting) | Proprietary <br> [Anthropic Terms](https://www.anthropic.com/legal/commercial-terms) |
+| o4                | ❌    | ❌            | • OpenAI API (Non-Saudi Hosting) <br> • Azure OpenAI Service (Non-Saudi Hosting)                                                | Proprietary <br> [OpenAI Terms](https://openai.com/policies/business-terms/)   |
+| Gemini1.5-pro     | ❌    | ❌               | • Google Cloud’s Vertex AI (Dammam, Saudi Arabia)                                                                               | Proprietary <br> [Google Gemini Terms](https://ai.google.dev/gemini-api/terms) |
+| Llama3.1_405b     | ✅    | ✅     | Any provider with GPU. Please see [Llama Partners](https://llama.meta.com/docs/getting-the-models/405b-partners/)                | Llama 3.1 Community License Agreement <br> [License](https://github.com/meta-llama/llama-models/blob/main/models/llama3_1/LICENSE) |
+| o4mini            | ❌    | ❌          | • OpenAI API (Non-Saudi Hosting) <br> • Azure OpenAI Service (Non-Saudi Hosting)                                                | Proprietary <br> [OpenAI Terms](https://openai.com/policies/business-terms/)   |
+| Command-R+        | ✅      | • non-commercial use is free <br> • commercial needs License | • Google Cloud’s Vertex AI (Non-Saudi Hosting) <br> • Amazon Bedrock (Non-Saudi Hosting) <br> • Azure OpenAI Service (Non-Saudi Hosting) <br> • Cohere API (Non-Saudi Hosting) | Creative Commons Attribution Non Commercial 4.0 |
+| Gemini1.5-flash   | ❌    | ❌              | • Google Cloud’s Vertex AI (Dammam, Saudi Arabia)                                                                               | Proprietary <br> [Google Gemini Terms](https://ai.google.dev/gemini-api/terms) |
+| Llama3.1_70b      | ✅    | ✅     | Any provider with GPU. Please see [Llama Partners](https://llama.meta.com/docs/getting-the-models/405b-partners/)                | Llama 3.1 Community License Agreement <br> [License](https://github.com/meta-llama/llama-models/blob/main/models/llama3_1/LICENSE) |
+| Large             | ✅      | • non-commercial use is free <br> • commercial needs License | • Google Cloud’s Vertex AI (Non-Saudi Hosting) <br> • Amazon Bedrock (Non-Saudi Hosting) <br> • Azure OpenAI Service (Non-Saudi Hosting) <br> • Mistral API (Non-Saudi Hosting) | Mistral AI Research License <br> [License](https://mistral.ai/licenses/MRL-0.1.md) |
+| Aya-35b           | ✅    | Only for non-commercial use |  • Google Cloud’s Vertex AI (Non-Saudi Hosting) <br> • Amazon Bedrock (Non-Saudi Hosting) <br> • Azure OpenAI Service (Non-Saudi Hosting) <br> • Cohere API (Non-Saudi Hosting) | Creative Commons Attribution Non-Commercial 4.0 |
+| Aya-8b            | ✅    | Only for non-commercial use |  • Google Cloud’s Vertex AI (Non-Saudi Hosting) <br> • Amazon Bedrock (Non-Saudi Hosting) <br> • Azure OpenAI Service (Non-Saudi Hosting) <br> • Cohere API (Non-Saudi Hosting) | Creative Commons Attribution Non-Commercial 4.0 |
+| Command-R         | ✅    | Only for non-commercial use |  • Google Cloud’s Vertex AI (Non-Saudi Hosting) <br> • Amazon Bedrock (Non-Saudi Hosting) <br> • Azure OpenAI Service (Non-Saudi Hosting) <br> • Cohere API (Non-Saudi Hosting) | Creative Commons Attribution Non-Commercial 4.0 |
+| Llama3.1_8b       | ✅    | ✅     | Any provider with GPU. Please see [Llama Partners](https://llama.meta.com/docs/getting-the-models/405b-partners/)                | Llama 3.1 Community License Agreement <br> [License](https://github.com/meta-llama/llama-models/blob/main/models/llama3_1/LICENSE) |
+| Gemma-2-27B       | ✅    | ✅     | Any provider with GPU. Please see [Gemma Terms](https://huggingface.co/google/gemma-2-27b-it)                                    | Gemma Terms of Use <br> [Terms](https://ai.google.dev/gemma/terms) |
+| mistral-nemo      | ✅    | ✅     | Any provider with GPU. Please see [Mistral Deployment](https://mistral.ai/technology/#deployment)                               | Apache License <br> Version 2.0 |
+
+
