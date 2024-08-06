@@ -51,6 +51,7 @@
 
 ![token English](https://raw.githubusercontent.com/Alaboudi1/llmBenchmarkArabic/main/tokenizerEn.png "token English")
 
+![token Arabic](https://raw.githubusercontent.com/Alaboudi1/llmBenchmarkArabic/main/tokenizerAr.png "token Arabic")
 
 
 فعلى سبيل المثال لو أرسلت هذا المدخل للنموذج ChatGPT o4:
