@@ -88,39 +88,39 @@
 
 | Model             | Open Wight | Private Hosting | Cloud Hosting                                                                                                                   | License Type                                                                 |
 |-------------------|------------|-----------------|----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
-| claude-3.5-sonnet | ❌    | ❌      | • Google Cloud’s Vertex AI (Dammam, Saudi Arabia) <br> • Amazon Bedrock (Non-Saudi Hosting) <br> • Anthropic API (Non-Saudi Hosting) | Proprietary <br> [Anthropic Terms](https://www.anthropic.com/legal/commercial-terms) |
-| o4                | ❌    | ❌            | • OpenAI API (Non-Saudi Hosting) <br> • Azure OpenAI Service (Non-Saudi Hosting)                                                | Proprietary <br> [OpenAI Terms](https://openai.com/policies/business-terms/)   |
+|  Claude-3.5-sonnet | ❌    | ❌      | • Google Cloud’s Vertex AI (Dammam, Saudi Arabia) <br> • Amazon Bedrock (Non-Saudi Hosting) <br> • Anthropic API (Non-Saudi Hosting) | Proprietary <br> [Anthropic Terms](https://www.anthropic.com/legal/commercial-terms) |
+| ChatGPT-o4                | ❌    | ❌            | • OpenAI API (Non-Saudi Hosting) <br> • Azure OpenAI Service (Non-Saudi Hosting)                                                | Proprietary <br> [OpenAI Terms](https://openai.com/policies/business-terms/)   |
 | Gemini1.5-pro     | ❌    | ❌               | • Google Cloud’s Vertex AI (Dammam, Saudi Arabia)                                                                               | Proprietary <br> [Google Gemini Terms](https://ai.google.dev/gemini-api/terms) |
 | Llama3.1_405b     | ✅    | ✅     | Any provider with GPU. Please see [Llama Partners](https://llama.meta.com/docs/getting-the-models/405b-partners/)                | Llama 3.1 Community License Agreement <br> [License](https://github.com/meta-llama/llama-models/blob/main/models/llama3_1/LICENSE) |
-| o4mini            | ❌    | ❌          | • OpenAI API (Non-Saudi Hosting) <br> • Azure OpenAI Service (Non-Saudi Hosting)                                                | Proprietary <br> [OpenAI Terms](https://openai.com/policies/business-terms/)   |
+| ChatGPT-o4mini          | ❌    | ❌          | • OpenAI API (Non-Saudi Hosting) <br> • Azure OpenAI Service (Non-Saudi Hosting)                                                | Proprietary <br> [OpenAI Terms](https://openai.com/policies/business-terms/)   |
 | Command-R+        | ✅      | • non-commercial use is free <br> • commercial needs License | • Google Cloud’s Vertex AI (Non-Saudi Hosting) <br> • Amazon Bedrock (Non-Saudi Hosting) <br> • Azure OpenAI Service (Non-Saudi Hosting) <br> • Cohere API (Non-Saudi Hosting) | Creative Commons Attribution Non Commercial 4.0 |
 | Gemini1.5-flash   | ❌    | ❌              | • Google Cloud’s Vertex AI (Dammam, Saudi Arabia)                                                                               | Proprietary <br> [Google Gemini Terms](https://ai.google.dev/gemini-api/terms) |
 | Llama3.1_70b      | ✅    | ✅     | Any provider with GPU. Please see [Llama Partners](https://llama.meta.com/docs/getting-the-models/405b-partners/)                | Llama 3.1 Community License Agreement <br> [License](https://github.com/meta-llama/llama-models/blob/main/models/llama3_1/LICENSE) |
-| Large             | ✅      | • non-commercial use is free <br> • commercial needs License | • Google Cloud’s Vertex AI (Non-Saudi Hosting) <br> • Amazon Bedrock (Non-Saudi Hosting) <br> • Azure OpenAI Service (Non-Saudi Hosting) <br> • Mistral API (Non-Saudi Hosting) | Mistral AI Research License <br> [License](https://mistral.ai/licenses/MRL-0.1.md) |
+| Mistral-Large             | ✅      | • non-commercial use is free <br> • commercial needs License | • Google Cloud’s Vertex AI (Non-Saudi Hosting) <br> • Amazon Bedrock (Non-Saudi Hosting) <br> • Azure OpenAI Service (Non-Saudi Hosting) <br> • Mistral API (Non-Saudi Hosting) | Mistral AI Research License <br> [License](https://mistral.ai/licenses/MRL-0.1.md) |
 | Aya-35b           | ✅    | Only for non-commercial use |  • Google Cloud’s Vertex AI (Non-Saudi Hosting) <br> • Amazon Bedrock (Non-Saudi Hosting) <br> • Azure OpenAI Service (Non-Saudi Hosting) <br> • Cohere API (Non-Saudi Hosting) | Creative Commons Attribution Non-Commercial 4.0 |
 | Aya-8b            | ✅    | Only for non-commercial use |  • Google Cloud’s Vertex AI (Non-Saudi Hosting) <br> • Amazon Bedrock (Non-Saudi Hosting) <br> • Azure OpenAI Service (Non-Saudi Hosting) <br> • Cohere API (Non-Saudi Hosting) | Creative Commons Attribution Non-Commercial 4.0 |
 | Command-R         | ✅    | Only for non-commercial use |  • Google Cloud’s Vertex AI (Non-Saudi Hosting) <br> • Amazon Bedrock (Non-Saudi Hosting) <br> • Azure OpenAI Service (Non-Saudi Hosting) <br> • Cohere API (Non-Saudi Hosting) | Creative Commons Attribution Non-Commercial 4.0 |
 | Llama3.1_8b       | ✅    | ✅     | Any provider with GPU. Please see [Llama Partners](https://llama.meta.com/docs/getting-the-models/405b-partners/)                | Llama 3.1 Community License Agreement <br> [License](https://github.com/meta-llama/llama-models/blob/main/models/llama3_1/LICENSE) |
 | Gemma-2-27B       | ✅    | ✅     | Any provider with GPU. Please see [Gemma Terms](https://huggingface.co/google/gemma-2-27b-it)                                    | Gemma Terms of Use <br> [Terms](https://ai.google.dev/gemma/terms) |
-| mistral-nemo      | ✅    | ✅     | Any provider with GPU. Please see [Mistral Deployment](https://mistral.ai/technology/#deployment)                               | Apache License <br> Version 2.0 |
+|Mistral-nemo      | ✅    | ✅     | Any provider with GPU. Please see [Mistral Deployment](https://mistral.ai/technology/#deployment)                               | Apache License <br> Version 2.0 |
 
 ## أختبار القدرات العربية واللهجة السعودية لدى النماذج اللغوية الكبيرة
 تكلمت مع أشخاص كثر لديهم أهتمام بإستخدام نماذج اللغوية الكبيرة في بناء وتحسين تطبيقات برمجية. في الغالب الأشخاص هؤلاء ينقسمون إلى قسمين: قسم يطرح السؤال "ماهو أفضل نموذج لغوي من ناحية الأداء في اللغة العربية؟" والاخر يستخدم chatGPT-o4. كان واضح عندي الحاجة لتقديم جاوب للسؤال المطروح ومحاولة تحدي الرأي السائد أن chatGPT وهو أفضل خيار. لهذا قررت عمل هذا الأختبار الأول من نوعة على حد علمي. الأختبار ينقسم إلى قسمين: القسم الأول عبارة عن ٤١٨ سؤال قياس لفظي تم سحبها من الأنترنت وتنظيفها وطلب من أشهر ١٥ نموذج لغوي للإجابة عليها. اسئلة اختبار قياس كما هو معلوم عبارة أختيارات متعددة. جميع الأسئلة متوفرة هنا للإطلاع. القسم الثاني من الأحتبار عبارة ثلاث أسئلة تحاكي الأسئلة التي تطرح على خدمة العملاء في القطاع العقاري. الهدف هو أختبار النماذج اللغوية على الاجابة على أسئلة العميل باللهحة السعودية. أستخدمت خليط من [LLM-as-a-Judge](https://arxiv.org/pdf/2306.05685) و Human-as-aJudge. القضاة من ناحية النماذج اللغوية الكبيرة، تم أختيار chatGPT-o4 و claude-3.5-sonnet. وأنا مثلت القضاة البشر. كل رد على الثلاث أسئلة تم تقييمة من ١٠. في الاسفل هي نتائج القسم الأول والثاني من الأختبار.
 ### القسم الأول: نتائج الأختبار اللفظي:
 | Model             | Correct | Incorrect | % of correct answers |
 |-------------------|---------|-----------|----------------------|
-| claude-3.5-sonnet | 287     | 131       | 68.66028708           |
-| o4                | 262     | 156       | 62.67942584           |
+| Claude-3.5-sonnet | 287     | 131       | 68.66028708           |
+| ChatGPT-o4        | 262     | 156       | 62.67942584           |
 | Llama3.1_405b     | 258     | 160       | 61.72248804           |
 | Gemini1.5-pro     | 247     | 171       | 59.09090909           |
-| o4mini            | 246     | 172       | 58.85167464           |
+| ChatGPT-o4mini    | 246     | 172       | 58.85167464           |
 | Gemini1.5-flash   | 233     | 185       | 55.74162679           |
 | Llama3.1_70b      | 213     | 205       | 50.9569378            |
-| Large             | 209     | 209       | 50                   |
+| Mistral-Large     | 209     | 209       | 50                   |
 | Command-R+        | 174     | 244       | 41.62679426           |
 | Aya-35b           | 169     | 249       | 40.43062201           |
 | Command-R         | 163     | 255       | 38.99521531           |
-| mistral-nemo      | 154     | 264       | 36.84210526           |
+| Mistral-nemo      | 154     | 264       | 36.84210526           |
 | Llama3.1_8b       | 140     | 278       | 33.49282297           |
 | Aya-8b            | 131     | 287       | 31.33971292           |
 | Gemma-2-27B       | 127     | 291       | 30.38277512           |
