@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    ‏الفراغ يسبب الكآبة وعلاج الكأبك البسيطة الأحساس بلذة الإنجاز
+    كم عدد انواع الكآبة:
+    ---- options
+    0) ١
+1) ٢
+2) الفراغ الشرطي
+3) لم يذكر
+    ---- answer
+    your answer:
+    

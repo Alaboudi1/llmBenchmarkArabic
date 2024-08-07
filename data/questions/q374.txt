@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    إن تطفو على سطح الماء….. يغوص في الاعماق .
+    ---- options
+    0) الورقة \_و  مسمار الفولاذ
+1) البطة \_ والطعم الحي
+2) القشة \_ و الحجر الكريم
+3) السفينة\_ وسمك القرش
+    ---- answer
+    your answer:
+    

@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    البطالة داء وخيم ومرض هياب يعرض الأمة الاسلامية لمشاكل اقتصادية مريرة
+    ---- options
+    0) وخيم
+1) هياب
+2) يعرض
+3) مريرة
+    ---- answer
+    your answer:
+    

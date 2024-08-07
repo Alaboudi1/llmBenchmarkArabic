@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    ‏خضروات : فجل
+    ---- options
+    0) حشرات :فراشة
+1) سفح :فراشة
+2) سرب : أسرية
+3) فرح : رضا
+    ---- answer
+    your answer:
+    

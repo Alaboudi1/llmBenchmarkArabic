@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    لن يصفك الناس ……. إذا تجاهلت ….. ولكن يخلطون إذا رأوك معهم .
+    ---- options
+    0) بالغرور \_ السفهاء
+1) بالكبر \_ الناس
+2) بالرياء \_ الفاشلين
+3) بالغرور \_ الناس
+    ---- answer
+    your answer:
+    

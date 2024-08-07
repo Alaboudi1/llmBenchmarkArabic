@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    كثرة سؤال الناس تذهب الماء من الوجه
+    ( تذهب الماء عن الوجة ) الحرف الذي يمكن وضعه بدلاً من الحرف ( من ) هو:
+    ---- options
+    0) عن
+1) حتى
+2) إلى
+3) لعل
+    ---- answer
+    your answer:
+    

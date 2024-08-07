@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    ‏ ‏لقد تحول صيد القروش إلى تجارة رابحة مما بات يهدد وجود أنواعه في بيئتة الطبيعية
+    لماذا يصطاد الصياد القرش:
+    ---- options
+    0) رغبتهم بالربح المادي
+1) لإفساد البيئة
+2) لتقليل اعداده
+3) لتحويلها الى تجارة
+    ---- answer
+    your answer:
+    

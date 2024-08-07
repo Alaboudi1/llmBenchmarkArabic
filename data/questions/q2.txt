@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    من نظر في…….. سلم من النوائب
+    ---- options
+    0) المعائب
+1) المصائب
+2) المكاسب
+3) العواقب
+    ---- answer
+    your answer:
+    

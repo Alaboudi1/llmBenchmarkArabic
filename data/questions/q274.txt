@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    ورقة:كتاب
+    ---- options
+    0) ثريا:مصباح
+1) مفردة:تركيب
+2) منزل:غرفه
+3) مدرسة:فصل-(حركة:فتحه)
+    ---- answer
+    your answer:
+    

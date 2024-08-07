@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    يجب أن يكون لكل شخص منا ناقد داخلي أو محكمة داخلية تساعدنا على العمل الدؤوب ، لأن المحكمة الداخلية لا هوادة فيها وتجعلنا نسعى للأفضل
+    كلمة لأن تفيد :
+    ---- options
+    0) التفسير
+1) التأكيد
+2) السببية
+3) النتيجة
+    ---- answer
+    your answer:
+    

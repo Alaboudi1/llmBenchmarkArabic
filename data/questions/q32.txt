@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    الفرد يد في .... وطنه ويعمل على ..... ُمستقبله.
+    ---- options
+    0) حفظ - بناء
+1) الدفاع عن - هدم
+2) جسد - تشييد
+3) يد - طموح
+    ---- answer
+    your answer:
+    

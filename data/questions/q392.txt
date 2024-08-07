@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    الشخص……… الذي يقف أمام نجاحك هو ………. .
+    ---- options
+    0) الفاشل \_ذاتك
+1) الجاهل \_ نفسك
+2) الوحيد \_ انت
+3) الأناني \_ صديقك
+    ---- answer
+    your answer:
+    

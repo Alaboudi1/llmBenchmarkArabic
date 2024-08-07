@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    ‏ ‏لقد تحول صيد القروش إلى تجارة رابحة مما بات يهدد وجود أنواعه في بيئتة الطبيعية
+    الضمير في “انواعة” يعود على:
+    ---- options
+    0) صيد
+1) تجارة
+2) البيئة
+3) القروش
+    ---- answer
+    your answer:
+    

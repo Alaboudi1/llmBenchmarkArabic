@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    اهتم الإسلام بالإنسان، من قبل أن يرى …….. في هذه الدنيا ويهتم به من خلالها ويضمن له …….. رحيله عنها أن هو استقام على الطريق السوي .
+    ---- options
+    0) الوجود - الوقت
+1) النور -العدل
+2) البدر -النعيم
+3) الماضي-الهناء
+    ---- answer
+    your answer:
+    

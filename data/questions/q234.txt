@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    عاشوراء:محرم
+    ---- options
+    0) مطر:برد
+1) نهار:عمل
+2) ذبول:خريف
+3) مجرة:كون
+    ---- answer
+    your answer:
+    

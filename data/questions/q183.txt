@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    ليمون:برتقال
+    ---- options
+    0) شمام:بطيخ
+1) فراولة:كمثرى
+2) خوخ:توت
+3) تفاح:موز
+    ---- answer
+    your answer:
+    

@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    نخله \_ اشجار
+    ---- options
+    0) رخام \_صخور
+1) يوم \_اسابيع
+2) كسل : تأخر
+3) تربيته : تقديره
+    ---- answer
+    your answer:
+    

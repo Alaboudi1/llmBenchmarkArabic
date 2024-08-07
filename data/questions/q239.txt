@@ -1,0 +1,22 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    حفظ النعمة .
+
+عن هدبة بن خالد - رحمه الله - قال: حضرت مائدة المأمون فلما رفعت  
+شيخ؟ قلت:بلى يا أمير المؤمنين ولكن حذثني حماد بن سلمة عن ثابت بن أنس  
+قال: سمعت رسول الله صلى الله عليه وسلم يقول:" من التقط ما تحت  
+مائدته أمن من الغقر". فنظر المأمون إلى خادم واقف بين يديه فأشار إليه. فما  
+شعرت أن جاءني ومعه منديل فيه ألف دينار فناولني إياه. فقلت يا أمير  
+المؤمنين وهذا من ذاك.
+    تتحدث القطعة بشكل عام عن:
+    ---- options
+    0) حفظ اللسان
+1) كرم المأمون
+2) علم وفضل الشيخ
+3) حفظ النعمة
+    ---- answer
+    your answer:
+    

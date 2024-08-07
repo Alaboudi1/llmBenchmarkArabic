@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    إن أشعة الشمس في الشتاء القصير تسبب الإكتئاب، وفي خلال دراسة أجراها العلماء ليثبتوا صحة النظرية حيث جربوا تعريض شخص لألشعة الضوئية، وترك الأخر بمكان مظلم ومعتم، فوجدوا أن الذي تعرض للعتمة كئيب، والذي تعرض للضوء فهو سعيد
+    أدق وصف لـ ( نظرية : دراسة ) هو
+    ---- options
+    0) اعتقاد : إثبات
+1) فرضية : تحقق
+2) حقائق علمية
+3) نتايج
+    ---- answer
+    your answer:
+    

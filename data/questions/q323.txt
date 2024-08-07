@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+     الزم طريق .... ولا يضرك قله ....
+    ---- options
+    0) النور - المفسدين
+1) الضلال - السالكين
+2) الحق - الصادقين
+3) الهدى - السالكين
+    ---- answer
+    your answer:
+    

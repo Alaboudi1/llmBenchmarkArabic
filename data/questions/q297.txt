@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    ‏لئن يقال لك ‏عيب عليك إذا فعلت أعظم بكثير من اللي قال لك حرام عليك ما فعلت
+    ---- options
+    0) عيب
+1) اعظم
+2) يقال
+3) حرام
+    ---- answer
+    your answer:
+    

@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    محفز:مثبط
+    ---- options
+    0) حرية:قيد
+1) بطل:بطلة
+2) سيارات:شارع
+3) خوف:تردد
+    ---- answer
+    your answer:
+    

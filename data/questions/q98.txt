@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    إن المدرسة التي نريدها هي التي تسعي إلى عدم تحقيق العديد من الأهداف ومنها الهوية الوطنية
+    ---- options
+    0) المدرسة
+1) عدم تحقيق /( عدم)
+2) الوطنية
+3) الأهداف
+    ---- answer
+    your answer:
+    

@@ -1,0 +1,17 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    تعاني معظم المدن من مظاهره  شيخوخه الاحياء السكنيه حيث يكتسب الحي السكني اهميه اقتصاديه ورعايه اداريه و رغبه سكانيه في البقاء في وبمرور الوقت تضمحل هذه القيم فتنخفض القيمه الاقتصاديه للعقار السكني في الحي وتغزو  الحي الاستعلامات المختلطه المتواضعه في القيمه الاقتصاديه والمعنويه وتتدهور  المرافق والخدمات في الحي وتظهر مشاكل التلوث وسوء التخطيط فقد تستفحل الامور وتطفو اشكالات سلوكيه ترتبط بالحي فيفقد الحي ازهاره
+
+ ويبدا ساكنه في البحث عن بيئه سكنيه افضل في احياء اخرى جديده..
+    معنى "ترتبط بالحي نفسه" ؟
+    ---- options
+    0) مايحدث فيه
+1) مايحدث بسببه
+2) مايقتصر فيه
+3) صادر من اهله
+    ---- answer
+    your answer:
+    

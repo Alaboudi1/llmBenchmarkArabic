@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    ‏يمتلك الناس أم الحريات ولكن لا يستخدمونها ويتجه هون للبحث عن حريات أخرى غير متوفرة في لديهم حرية الفكر وهم يطالبون بحرية التعبير
+    الكلمة الزائدة في النص:
+    ---- options
+    0) الناس
+1) الحريات
+2) اخرى
+3) متوفرة
+    ---- answer
+    your answer:
+    

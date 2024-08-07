@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    الرياضي بعد التمرين يحتاج إلى ماء بكمية متجانسة ليعوض الجفاف و ما فقد جسمة من ماء
+    ---- options
+    0) الرياضي
+1) متجانسة
+2) الجفاف
+3) فقد
+    ---- answer
+    your answer:
+    

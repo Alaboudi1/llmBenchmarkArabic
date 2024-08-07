@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    ‏لا يهم أن كنت تمشي ببطء الأهم أن لا تتقدم خطوة إلى الوراء
+    ---- options
+    0) يهم
+1) تمشي
+2) تتقدم
+3) الوراء
+    ---- answer
+    your answer:
+    

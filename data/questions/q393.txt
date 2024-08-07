@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    فحم:وقود
+    ---- options
+    0) قمح:غذاء
+1) منجل:مزارع
+2) باص:سيارة
+3) صحفي:برنامج
+    ---- answer
+    your answer:
+    

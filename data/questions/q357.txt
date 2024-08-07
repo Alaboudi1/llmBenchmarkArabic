@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    سنجاب:قوارض
+    ---- options
+    0) ذبابة:حشرات
+1) نسر:طيور
+2) قرد:تسلق
+3) جمل:ناقه
+    ---- answer
+    your answer:
+    

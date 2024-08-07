@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    ‏اهتمت دولتنا بالتعليم، ‏وأول ذلك المعلم، ‏فهو طالب علم يبحث عن …... ‏وإثراء علمه، ‏فضلا عن أنه صاحب ……عظيمة.
+    ---- options
+    0) جاه - صفة
+1) الأسواق - نهضة
+2) الحقيقة-رسالة
+3) الفنون - بروز
+    ---- answer
+    your answer:
+    

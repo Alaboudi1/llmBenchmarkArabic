@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    إنسان:يد
+    ---- options
+    0) سيارة:طريق
+1) جيش:جندي
+2) مفتاح:باب
+3) جنة:رضوان
+    ---- answer
+    your answer:
+    

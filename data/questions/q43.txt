@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    إنك ستعرف عدوك الحقيقي عندما يغضبك لكي ينفعك لا يرضيك ليضرك .
+    ---- options
+    0) يغضبك
+1) ينفعك
+2) عدوك
+3) ليضرك
+    ---- answer
+    your answer:
+    

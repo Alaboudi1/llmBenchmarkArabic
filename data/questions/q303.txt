@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    بين جملة التوافق التي تتفق مع الجملة التالية : " الكسل يؤدي إلى الفشل "
+    ---- options
+    0) الكسل يتبعه إخفاق.
+1) الطالب المتفوق لا يمكن أن يكون كسولاً.
+2) الكسول لا يستطيع تحقيق أهدافه.
+3) الكسل قرين النشاط.
+    ---- answer
+    your answer:
+    

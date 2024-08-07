@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    دفتر : أوراق أو سنه : يوم
+    ---- options
+    0) سبحة : خرزة
+1) طوفان : غرق
+2) قيام : جلوس
+3) بشر : عجم
+    ---- answer
+    your answer:
+    

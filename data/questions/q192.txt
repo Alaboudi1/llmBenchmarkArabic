@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    ابتسامة:ضحكة
+    ---- options
+    0) اكل:ذوق
+1) قرية:مدينة
+2) بحر:خليج
+3) امل:اطمئنان
+    ---- answer
+    your answer:
+    

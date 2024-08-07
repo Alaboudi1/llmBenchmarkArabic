@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+     ‏عندما تسيطر الأنانية على الشخص تجعل مروءته وكرمه بالبلاهه تارة والكرامة تارة اخرى
+    ---- options
+    0) تسيطر
+1) مروءته
+2) تارة
+3) الكرامة
+    ---- answer
+    your answer:
+    

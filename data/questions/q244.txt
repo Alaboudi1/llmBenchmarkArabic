@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    ‏ليست الأهداف ضرورية لتحفيزنا فحسب بل هي أساسية فعلا لبقائنا على قيد الحياة
+    النص يحث على:
+    ---- options
+    0) وضع الاهداف
+1) التشبت بالآمال
+2) التفكير الناقد
+3) تحقيق الأحلام
+    ---- answer
+    your answer:
+    

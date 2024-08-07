@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    ‏لا تحزن عندما يطعنك أقرب الناس إليك فسيأتي شخص و يغرس هذا السهم ويعيد هذا الأمل إليك
+    ---- options
+    0) يغرس
+1) يطعنك
+2) السهم
+3) الامل
+    ---- answer
+    your answer:
+    

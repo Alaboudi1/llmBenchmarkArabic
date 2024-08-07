@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    لا يعرف الثلاث الا في ثلاثة الشجاعة عند……… والحلم عند …….. والكرم عند الحاجة.
+    ---- options
+    0) المواجهة \_ الصبر
+1) حرب \_غضب
+2) الغضب \_ الحرب
+3) الصبر \_ المصيبة
+    ---- answer
+    your answer:
+    

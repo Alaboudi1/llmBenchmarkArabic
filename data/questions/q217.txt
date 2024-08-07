@@ -1,0 +1,16 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    عِندَمَا تَقُوم العلاقات البَشَريّة على أسس سَلِيمة مِن الدّين وَالقِيَم وَالمبَادئ والعَادّات وَالتَقَاليد فَإِنّهَا تُودّي حَثْمًا إلى التَّمَاسُك وَالتّرابْط بَيْن البَشَّر وَتّقَوي دَعَائْمِ الاسْتفرار وتبعث عَلَى اللَّهُوض وَالتَّقَدم والازدهار في شَنَّى مَيَادِين الحَيَاة وَالعِلاقات أَنْواع مُتعَدّدة فمنها عِلاقات دِرَاسَة, وَعِلَاقات عَمَل وَعِلَاقَات عَاطِفِيّة وَلِكي تسْتمر العلاقات  
+العَاطِفِيّة يجب رعَايَتُها وَحِفظَهَا.
+    الضمير في كلمة(رغبتها) يعود على:
+    ---- options
+    0) العلاقات
+1) \-
+2) \-
+3) \-
+    ---- answer
+    your answer:
+    

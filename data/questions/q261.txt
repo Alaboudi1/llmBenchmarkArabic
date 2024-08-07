@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    كيف …….. للمرء أن يقضي حياته دون هدف يسعى الى ……. ؟
+    ---- options
+    0) ينتحي - بنائه
+1) يتيسر - إشباعه
+2) يروق -توفيره
+3) يمكن -تحقيقه
+    ---- answer
+    your answer:
+    

@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    إن الأمم تمر في محطاتها التاريخية بلحظات ……..  تجعلها تتفرق ، ثم يأتي …… ليساهموا في توجيهها للطريق الصحيح .
+    ---- options
+    0) اضطراب \_ القادة
+1) حرجة \_ الأدعياء
+2) رخاء \_ العلماء
+3) حاسمة \_ الحكماء
+    ---- answer
+    your answer:
+    

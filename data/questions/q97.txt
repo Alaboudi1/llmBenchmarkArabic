@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    السودان:الخرطوم
+    ---- options
+    0) لبنان:صيدا
+1) كندا:النمسا
+2) اسيا:افريقيا
+3) الكويت:قطر
+    ---- answer
+    your answer:
+    

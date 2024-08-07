@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    ميخائيل نعيمة …….  في تطوير النهضة الفكرية / الثورة الثقافية .
+    ---- options
+    0) قاد
+1) باد
+2) أعطى
+3) احدث
+    ---- answer
+    your answer:
+    

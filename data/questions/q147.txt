@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    ‏الشباب هم عدة المستقبل
+    ---- options
+    0) الشباب
+1) هم
+2) عدة
+3) المستقبل
+    ---- answer
+    your answer:
+    

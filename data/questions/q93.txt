@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    ‏تعلم من الزهرة البشاشة، ‏ومن الحمامة الوداعة، ‏ومن النحلة………..، ‏ومن النملة …………. ‏ومن الديك النهوض ‏باكرًا.
+    ---- options
+    0) ‏الانضباط-الهدوء
+1) ‏السكون-الإتقان
+2) ‏القوة -الكفاح
+3) ‏النظام-الصبر
+    ---- answer
+    your answer:
+    

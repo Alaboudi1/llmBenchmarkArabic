@@ -1,0 +1,19 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+                     الكوارث الطبيعية
+
+       ( شبيه بنص الاختبار ) 
+
+في بحث أُجرِي مطلع العام الجاري تبيّن أنَّ هناك أكثر من 3800 كارثة طبيعية تحدث في العقد الماضي، والتي بدورها تسببت في مقتل 700 ألف إنسان، وسببت خسائر أكثر من 950 مليار دولار، وكان 65% من هذه الكوارث سببها الزلازل، والغريب أنّ أكثر من 85% من الضحايا الناجمين عن هذه الكوارث يقعون في قارة آسيا، والغريب أيضًا أنّه فقط في حادثة "تسونامي" في المحيط الهندي ذهب ضحيتها أكثر من 270 ألف إنسان.
+    معنى العام الجاري في سياق النص .؟
+    ---- options
+    0) المنصرم
+1) القادم
+2) الحاضر
+3) الماضي
+    ---- answer
+    your answer:
+    

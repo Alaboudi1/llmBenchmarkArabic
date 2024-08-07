@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    مشاهدة التلفاز أثناء تناول الطعام يزيد تناوله، ويساعد على زيادة تفاعل الطفل مع أفراد أسرته.
+    ---- options
+    0) التلفاز
+1) تفاعل
+2) يزيد
+3) أسرته
+    ---- answer
+    your answer:
+    

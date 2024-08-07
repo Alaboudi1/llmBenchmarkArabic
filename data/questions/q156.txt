@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    بحر:ملح
+    ---- options
+    0) ليمون:حامض
+1) نهر:رمل
+2) ماء:عذب
+3) فصل:سبورة
+    ---- answer
+    your answer:
+    

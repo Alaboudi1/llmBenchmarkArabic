@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    جوع:طعام
+    ---- options
+    0) سيئات:حسنات
+1) دواء:مرض
+2) ظلام:شمس
+3) رسوب:نجاح
+    ---- answer
+    your answer:
+    

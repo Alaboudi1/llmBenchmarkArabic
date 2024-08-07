@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    حسنة:سيئه
+    ---- options
+    0) سخط:رضا
+1) شاهد:مشهود
+2) اسلام:إباء
+3) قفاز:امتناع
+    ---- answer
+    your answer:
+    

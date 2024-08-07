@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    إن لم تأخذ بنصيحة الجهال فستتعب في حياتك .
+    ---- options
+    0) الجهال
+1) بنصيحة
+2) ستتعب
+3) لم تاخذ
+    ---- answer
+    your answer:
+    

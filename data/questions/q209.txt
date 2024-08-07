@@ -1,0 +1,17 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    الخضراوات مصطلح يطلق على أي نوع من النباتات العشبية التي تستخدم جزئيًا أو بشكل كامل في  
+الطبخ لتمحضير اطعمة للإنسان. تتميز الخضروات بانها تحئوي على سعرات حرارية فليلة. ولهدا فهي  
+من المواد الغذائية التي يجب أن تؤكل يومياء. وهى تمد الجسم بالفيتامينات والأملاح المعدنية الضرورية والنشويات.
+    ‏العلاقة بين الكلمة (الجزئية )وكلمة (بشكل كامل):
+    ---- options
+    0) تضاد
+1) ترادف
+2) تمثيل
+3) تشبيه
+    ---- answer
+    your answer:
+    

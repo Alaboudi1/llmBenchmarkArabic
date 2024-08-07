@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    \*اختر المفردة الشاذة مما يلي؟
+    ---- options
+    0) عجين
+1)    طحين
+2)   خبز
+3)  قمح
+    ---- answer
+    your answer:
+    

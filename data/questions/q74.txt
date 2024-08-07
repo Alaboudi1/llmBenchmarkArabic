@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    ‏الدهر يومان يوم لك ويوم معك فإن كان لك فلا تبطر وأن كان عليك فاصبر
+    ---- options
+    0) معك
+1) تبطر
+2) عليك
+3) فأصبر
+    ---- answer
+    your answer:
+    

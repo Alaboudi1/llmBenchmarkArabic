@@ -1,0 +1,21 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+                ( الكتاب والتراث الإنساني ) 
+
+الكتاب هو الذي ينقل التراث الإنساني ويحفظه ، ولكن ما قيمة الكتاب و لايوجد من يقرأه ؟!
+
+نص آخر ..
+
+لكل أمة ماضيها الذي ترثه و لا تصنعه ؛ تتأثر به ولا تؤثر في جوهره ؛ فالذي مضى بأحداثه ومقولاته طواه الزمن و لايمكن أن يتكرر كما كان وقت حدوثه.
+    قيمة الكتاب الحقيقية تتمثل في:
+    ---- options
+    0) شرائه
+1) قراءته
+2) مضمونه
+3) محتواه
+    ---- answer
+    your answer:
+    

@@ -1,0 +1,21 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+                ( الكتاب والتراث الإنساني ) 
+
+الكتاب هو الذي ينقل التراث الإنساني ويحفظه ، ولكن ما قيمة الكتاب و لايوجد من يقرأه ؟!
+
+نص آخر ..
+
+لكل أمة ماضيها الذي ترثه و لا تصنعه ؛ تتأثر به ولا تؤثر في جوهره ؛ فالذي مضى بأحداثه ومقولاته طواه الزمن و لايمكن أن يتكرر كما كان وقت حدوثه.
+    أي من الأتي لا يتفق مع كلمة مضى في المعنى؟
+    ---- options
+    0) رحل
+1) انتهى
+2) ظل
+3) غَبَرَ
+    ---- answer
+    your answer:
+    

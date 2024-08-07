@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    هناك أنواع للعمى الخلقي والأشخاص المصابون بالعمى الكلي هم الذين لا يميزون بين النور والظلام أما الأشخاص المصابون بالعمى الجزئي يتمكنون من رؤية ضعيفة تكون مفيدة لهم في بعض الأغراض ويولد أناس قادرون على الرؤية وهم المصابون بالعمى الخلقي.
+    ---- options
+    0) الخلقي
+1) الكلي
+2) قادرون
+3) الجزئي
+    ---- answer
+    your answer:
+    

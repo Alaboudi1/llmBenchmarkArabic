@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    قماش : ملابس
+    ---- options
+    0) طائرة : ورق
+1) فحم : شواء
+2) زجاج : طاولة
+3) غرفة : نافذ
+    ---- answer
+    your answer:
+    

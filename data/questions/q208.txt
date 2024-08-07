@@ -1,0 +1,17 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    الخضراوات مصطلح يطلق على أي نوع من النباتات العشبية التي تستخدم جزئيًا أو بشكل كامل في  
+الطبخ لتمحضير اطعمة للإنسان. تتميز الخضروات بانها تحئوي على سعرات حرارية فليلة. ولهدا فهي  
+من المواد الغذائية التي يجب أن تؤكل يومياء. وهى تمد الجسم بالفيتامينات والأملاح المعدنية الضرورية والنشويات.
+    يستنتج من النص ان اهمية الخضروات تكمن في:
+    ---- options
+    0) استخدامها في الطبخ
+1) انها غنية بالفوائد الضرورية
+2) يجب ان تؤكل يوميا
+3) تحتوي على سعرات حرارية قليلة
+    ---- answer
+    your answer:
+    

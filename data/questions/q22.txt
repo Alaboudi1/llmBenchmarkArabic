@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    الشخص الذي لا رأي له يصبح عرضة لـ …….. وهدف سهل ل……….. به
+    ---- options
+    0) التردد - الإيقاع
+1) الشفقة - الظفر
+2) الإهمال - الاستهزاء
+3) الإهمال - الظفر
+    ---- answer
+    your answer:
+    

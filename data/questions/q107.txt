@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    اتقياء : تقي
+    ---- options
+    0) سعداء : سعيد
+1) كتب : كاتب
+2) رجل : امراة
+3) وفي : اوفياء
+    ---- answer
+    your answer:
+    

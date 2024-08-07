@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    فقه النفس ونبل الاخلاق وعلو الهمة وسالمة الذوق وخمول الفكر دليل على رقي الأنسان
+    ---- options
+    0) خمول
+1) فقة
+2) نبل
+3) الفكر
+    ---- answer
+    your answer:
+    

@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    يسهر: يتعب
+    ---- options
+    0) يشارك: التعاون
+1) يذاكر: يرسب
+2) يأكل: يشبع ( أكل : شبع )
+3) يقفز: يثب
+    ---- answer
+    your answer:
+    

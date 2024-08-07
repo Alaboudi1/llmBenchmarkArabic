@@ -1,0 +1,17 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    تم استبعادي من السباق 
+
+اي الجمل التالية لا تتفق في المعنى مع رأس السؤال؟
+    ---- options
+    0) فزت بالسباق
+1) ثم طردي من السباق
+2) لم أشارك في السباق
+3) لم يسمح لي بدخول السباق
+    ---- answer
+    your answer:
+    

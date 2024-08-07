@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    مكواة:ملابس
+    ---- options
+    0) محراث:حقل(أرض)
+1) مسمار:خشب
+2) سكين:لحم
+3) قلم:دفتر
+    ---- answer
+    your answer:
+    

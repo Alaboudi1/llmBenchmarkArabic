@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    بين جملة التوافق التي تتفق مع الجملة التالية : "البلاء موكل بالمنطق"
+    ---- options
+    0) ربما يصيب البلاء الإنسان بما لم ينطق
+1) ربما ينطق الإنسان بما فيه بلاؤه
+2) البلاء ليس له علاقة بالمنطق
+3) البلاء نعمة تصيب الإنسان
+    ---- answer
+    your answer:
+    

@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    الشمس منجم من نار , ولكنها تمنح النور ؛ فروعة المخلوق فيما يعطيه وليس فيما يبذله.
+    ---- options
+    0) نار
+1) النور
+2) يبذله
+3) يعطيه
+    ---- answer
+    your answer:
+    

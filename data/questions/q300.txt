@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    لوسائل الإعلام آثار سلبية سيئة على المجتمع إذا روجت الإشاعات
+    علاقة ( يركز الدماغ على المناطق المضيئة ) بجملة ( ليجعلنا نعتقد ….)
+    ---- options
+    0) تفسير
+1) توضيح
+2) شرح
+3) نتيجة
+    ---- answer
+    your answer:
+    

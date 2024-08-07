@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    العلاقات العامة هي: ……… الإدارة المتميزة التي تساعد في بناء خطوط …….. من الاتصال بين المؤسسة وجماهيرها.
+    ---- options
+    0) برنامج \_ رقيقة
+1) مسؤولية \_ الود
+2) عمل \_ متينة
+3) وظيفة \_ متبادلة
+    ---- answer
+    your answer:
+    

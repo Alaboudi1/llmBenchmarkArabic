@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    سباحة:نشاط
+    ---- options
+    0) حرارة:ذوبان
+1) غطس:شجاعة
+2) سرعة:ركض
+3) عبوس:بكاء
+    ---- answer
+    your answer:
+    

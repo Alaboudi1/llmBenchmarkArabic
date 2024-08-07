@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    من قرب السفلة وطرح أصحاب الأحساب والمروءات استحق التكريم .
+    ---- options
+    0) قرب
+1) الأحساب
+2) طرح
+3) التكريم
+    ---- answer
+    your answer:
+    

@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    دودة القز:حرير
+    ---- options
+    0) دجاج:بيض
+1) بعوض:مرض
+2) طبيب:مشرط
+3) شارع:رصيف
+    ---- answer
+    your answer:
+    

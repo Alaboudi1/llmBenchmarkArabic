@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    اختر المفردة الشاذة؟
+    ---- options
+    0) فصل
+1) مدرسة
+2) جامعة
+3) روضة
+    ---- answer
+    your answer:
+    

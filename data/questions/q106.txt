@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    بالرغم من التقدم ............. في جميع مجالات الحياة الا ان هناك دول لازالت ................ من الفقر
+    ---- options
+    0) الاقتصادي - تفتقر
+1) الاجتماعي - تشكي
+2) المادي - تعاني
+3) العمراني - تتصدى
+    ---- answer
+    your answer:
+    

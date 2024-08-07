@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    العقرب تتزوج مرة واحدة ثم تقتل زوجها بعد الزواج ، فإنها تموت أول ما تلد لأن جسمها يتشقق.
+    علاقة جملة “ فإنها تموت أول ماتلد ” بجملة “ بسبب الشقوق التي في جسمها ” ) …..؟
+    ---- options
+    0) مقابلة
+1) تضاد
+2) تناقض
+3) نتيجة
+    ---- answer
+    your answer:
+    

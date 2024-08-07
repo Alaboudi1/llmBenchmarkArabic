@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    إن أشعة الشمس في الشتاء القصير تسبب الإكتئاب، وفي خلال دراسة أجراها العلماء ليثبتوا صحة النظرية حيث جربوا تعريض شخص لألشعة الضوئية، وترك الأخر بمكان مظلم ومعتم، فوجدوا أن الذي تعرض للعتمة كئيب، والذي تعرض للضوء فهو سعيد
+    انسب عنوان للنص:
+    ---- options
+    0) ‏متى تأثير الإنسان بالضوء
+1) ‏النهار في الشتاء
+2) ‏النهار والليل في الحياة
+3) ‏مدة النهار وعلاقته بصحة الإنسان
+    ---- answer
+    your answer:
+    

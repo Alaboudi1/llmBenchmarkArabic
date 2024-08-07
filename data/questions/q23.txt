@@ -1,0 +1,17 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+                     ردود الأفعال (نص الاختبار) 
+
+إن من المفيد فعلًا أن تفكر سلفًا في مردود أفعالك تجاه مختلف المشكلات، وذلك قبل أن تحدث ومع أنه يستحيل أن تُحصى جميع المشكلات الممكن حدوثها وتفكر في ردود أفعالك حيالها، إلا أنه من المهم جدا أن تدون بعض المشكلات الشائعة لديك أو لدى زملائك، ثم تقوم بكتابة ردود أفعال منطقية تخلصك من المواقف دون عواقب أكثر إشكالا، ومتى كانت ردود أفعالك مخططًا لها سلفًا فإن هذا سيمنحك الإحساس بمزيد من الثقة، ويجعلك تبدو أكثر يقظة وحنكة أمام الآخرين .
+    تدوين المشكلات التي لدى الأخرين يفيدنا في التعرف على؟
+    ---- options
+    0) أفعالهم
+1) سيرهم
+2) أقوالهم
+3) تجاربهم
+    ---- answer
+    your answer:
+    

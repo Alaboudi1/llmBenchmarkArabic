@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    جريمة:عقاب
+    ---- options
+    0) بحث:شرطي
+1) محكمة:لص
+2) كسرى:فارس
+3) رسوب:نجاح
+    ---- answer
+    your answer:
+    

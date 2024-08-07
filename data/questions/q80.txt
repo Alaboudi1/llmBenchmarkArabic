@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    طفاية حريق : نار
+    ---- options
+    0) حافي : حذاء
+1) علم : جهل
+2) أطراف : قدم
+3) تقدم : حضاره
+    ---- answer
+    your answer:
+    

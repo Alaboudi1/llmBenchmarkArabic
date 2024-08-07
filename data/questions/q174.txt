@@ -1,0 +1,16 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    ولد الصفدي صلاح الدين أبيك سنة (٦٩٦هـ) وكان أدبه من أفضل أساليب الأدب في دهرهء لا يلتزم السجع كثير) إذا ترجم للرجالء شعره كثيرٌ وبعضه جيدٌ وبعضه أجودء ويعد في باب التأليف من المكثرين المجودين, كتب بيده كما قال ما يقارب خمسمائة في مجلد دخلت في  
+خمسين مصنفاء قال: ولعل الذي كتبته في "ديوان الإنشاء" ضعفي ذلك, توفي الصفدي سنة (٧٦٤هـ).
+    عبارة (باب التأليف) تعني:
+    ---- options
+    0) حقل التصنيف
+1) حقل الشعر
+2) طرق الشعر
+3) طرق التصنيف
+    ---- answer
+    your answer:
+    

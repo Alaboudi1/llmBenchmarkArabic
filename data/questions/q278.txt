@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    \*اختر المفردة الشاذة
+    ---- options
+    0) مشط
+1) موس
+2) شعر
+3) مقص
+    ---- answer
+    your answer:
+    

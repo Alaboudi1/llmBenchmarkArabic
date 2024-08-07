@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    ‏ ‏كي لا تخسر نفسك لا تقلد غيرك لا تقارن حياتك بالآخرين ولا تنتقد أمرا لم تجربه
+    اسلوب النص قائم على:
+    ---- options
+    0) النهي عن الخطأ ثم التعليل
+1) نفي الخطأ ثم التعليل
+2) التعليل ثم نفي الخطأ
+3) التعليل ثم النهي عن الخطأ
+    ---- answer
+    your answer:
+    

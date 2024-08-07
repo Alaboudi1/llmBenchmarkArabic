@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    استثمار:نماء
+    ---- options
+    0) قمر:كوكب
+1) ترتيب:إنجاز
+2) سماء:ارض
+3) مرأة:صورة
+    ---- answer
+    your answer:
+    

@@ -1,0 +1,21 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    تغاض عن هفوات ……. ليدوم ……….. 
+
+تأتي بصيغة : 
+
+ تغاضى عن المساؤي……… ليدوم …… 
+
+تناسى أخطاء ………… حتى تكسب ……………
+    ---- options
+    0) الاحباب - صدقهم
+1) الارحام - صلتهم
+2) الإخوان ( الاحبة ) - ودهم
+3) الاخلاء - محبتهم
+    ---- answer
+    your answer:
+    

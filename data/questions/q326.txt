@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    قبلت يد أمي
+    ---- options
+    0) قبلت يد أمي
+1) ما قبلت إلا يد امي
+2) لا اقبل يد امي
+3) أبر أمي
+    ---- answer
+    your answer:
+    

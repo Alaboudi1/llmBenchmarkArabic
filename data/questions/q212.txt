@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    حارب عدوك بالسلاح الذي ……. لا بالسلاح الذي ………
+    ---- options
+    0) يريده - تريده
+1) تخشاه - يخشاه
+2) يخشاه - تخشاه
+3) بيدك - بيده
+    ---- answer
+    your answer:
+    

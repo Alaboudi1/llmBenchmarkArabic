@@ -1,0 +1,19 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+                                                المنتديات الإلكترونية 
+
+أصبحت المنتديات الإلكترونية جزءاً أساسيا في حياة الناس خصوصاً بعد أن أسست لنفسها وسطاً تفاعلياً لم يكن منتظراً.  
+نص آخر :  
+أسست المنتديات مجالا واستطاعت المنتديات الالكترونية بناء ركائز لها لم تكن منتظرة .
+    يستنتج من النص أن الحيز الذي أخذته المنتديات :
+    ---- options
+    0) لم يكن متوقع حدوثه
+1) لم يكن متوقع شيوعه
+2) لم يكن متوقع استمراره
+3) كان متوقع استمراره
+    ---- answer
+    your answer:
+    

@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    من لم يتقبل نصيحة اصدقائه وإن الموه فلن يتضرر غيره كالمريض ؛ يكتب له الطبيب الدواء فيتركه ..
+    ما الكلمة التي حذفت لا يتغير معنى الجمله
+    ---- options
+    0) يتقبل
+1) نصيحة
+2) فيهلك
+3) الدواء
+    ---- answer
+    your answer:
+    

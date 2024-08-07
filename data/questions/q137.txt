@@ -1,0 +1,17 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    الطفل هذا الكائن الذي ينتمى لأسرة ومجتمع .وله علينا حقوق يتحتم علينا الوفاء بهاء والتعامل معها  
+بعدل» فلا نأخذ بعضهاء ونترك بعضهاء ولهذا يتعين علينا أن نهتم به و هذا ليس مقصورا على  
+البيت فقطء بل أيضا على المدرسة؛ لأن الطفل يقضى فيها (٦) ساعات على الأقل.
+    الهاء في"الوفاء بها" تعرد على:
+    ---- options
+    0) الناس
+1) الحقوق
+2) المجتمع
+3) الطفل
+    ---- answer
+    your answer:
+    

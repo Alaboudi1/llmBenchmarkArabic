@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    معلم:مدرسة
+    ---- options
+    0) منقذ:شاطئ
+1) مبنى:مهندس
+2) خياط:ريشه
+3) طبيب:جراح
+    ---- answer
+    your answer:
+    

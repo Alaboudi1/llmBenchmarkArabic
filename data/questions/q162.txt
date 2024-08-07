@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    ‏ ‏لقد تحول صيد القروش إلى تجارة رابحة مما بات يهدد وجود أنواعه في بيئتة الطبيعية
+    ‏ما الكلمة التي حذفها من النص بحيث لا تغير من المعنى:
+    ---- options
+    0) صيد
+1) تحارة
+2) بيئته
+3) الطبيعية
+    ---- answer
+    your answer:
+    

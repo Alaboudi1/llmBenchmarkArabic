@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    مصباح:نور
+    ---- options
+    0) مروحة:هواء
+1) نجاح:فشل
+2) اجتهاد:كسل
+3) معلم:طالب
+    ---- answer
+    your answer:
+    

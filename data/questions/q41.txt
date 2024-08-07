@@ -1,0 +1,19 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+                                                   الرياضة المثلى 
+
+                                       (شبيه بنص الاختبار)
+
+الرياضة المثلى هي المنتظمة بتأني, وتحمي العين والبصر من التردي عقب التقدم في السن..
+    يستنتج من النص أن :
+    ---- options
+    0) الرياضة تحمي البصر من التردي
+1) الرياضة لا تصلح لكبار السن
+2) الرياضة المنتظمة وقاية وليست علاج
+3) الرياضة مرهقة جسدياً
+    ---- answer
+    your answer:
+    

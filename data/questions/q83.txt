@@ -1,0 +1,19 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+                                                المنتديات الإلكترونية 
+
+أصبحت المنتديات الإلكترونية جزءاً أساسيا في حياة الناس خصوصاً بعد أن أسست لنفسها وسطاً تفاعلياً لم يكن منتظراً.  
+نص آخر :  
+أسست المنتديات مجالا واستطاعت المنتديات الالكترونية بناء ركائز لها لم تكن منتظرة .
+    من الذي يستطيع الدخول وقراءة المنتديات؟
+    ---- options
+    0) المشرفين فقط
+1) المشرفين والأعضاء ومادونهم
+2) الأعضاء فقط
+3) مادون المشرفين والاعضاء فقط
+    ---- answer
+    your answer:
+    

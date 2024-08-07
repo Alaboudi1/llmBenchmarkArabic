@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    الفلاح:الايمان
+    ---- options
+    0) اجتهاد:نجاح
+1) عذاب:حب
+2) منافسة:تطور
+3) عمل:كسب
+    ---- answer
+    your answer:
+    

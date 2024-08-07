@@ -1,0 +1,15 @@
+
+    --- instructions
+    You are giving a question in arabic, and you need to answer it based on the choices only. Please only write the letter of the answer.
+    The question is testing your knowledge of the arabic language, grammar, vocabulary, comprehension, and semantics. 
+    --- question
+    
+    الإنسان الناجح يغلق فمه قبل أن يغلق الناس…….. ويفتح أذنيه قبل أن يفتح الناس ……
+    ---- options
+    0) آفواههم - آذانهم
+1) آذانهم -افواههم
+2) عيونهم -قلوبهم
+3) قلوبهم -آذانهم
+    ---- answer
+    your answer:
+    
